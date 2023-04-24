@@ -1,6 +1,6 @@
 # page-view-time-series-visualizer
 
-### Analysis of data on page views of the freeCodeCamp forum.
+### Data analysis on page views of the freeCodeCamp forum.
 
 
 The first graph shows the distribution of the number of page views over time.<br>
